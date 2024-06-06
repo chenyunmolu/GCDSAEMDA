@@ -1,0 +1,44 @@
+,Disease,DOID
+0,Ulcerative Colitis,DOID:8577
+1,Mouth Neoplasms,
+2,Crohn Disease,DOID:8778
+3,Irritable Bowel Syndrome,DOID:9778
+4,Celiac Disease,DOID:10608
+5,Colorectal Neoplasms,DOID:0080167
+6,Atherosclerosis,DOID:1936
+7,Peripheral Arterial Disease,DOID:0050645
+8,Diarrhea,DOID:13250
+9,Coronary Artery Disease,DOID:3393
+10,Pancreatic Neoplasms,DOID:7575
+11,Gastroesophageal Reflux,DOID:8534
+12,Laryngeal Neoplasms,DOID:0080167
+13,Inflammatory Bowel Diseases,DOID:0050589
+14,Breast Neoplasms,DOID:4680
+15,Constipation,DOID:2089
+16,Parkinson Disease,DOID:0060367
+17,Esophageal Neoplasms,DOID:0080167
+18,Uterine Cervical Neoplasms,DOID:4111
+19,Squamous Intraepithelial Lesions,DOID:0060689
+20,Thrombosis,DOID:0060903
+21,Head and Neck Neoplasms,DOID:1542
+22,Liver Neoplasms,
+23,Amyotrophic Lateral Sclerosis,DOID:0060193
+24,Endometrial Neoplasms,
+25,Lung Neoplasms,
+26,Rectal Neoplasms,
+27,Hypertension,DOID:10763
+28,Gastroenteritis,DOID:2326
+29,Prostatic Neoplasms,
+30,Coronary Heart Disease,DOID:3393
+31,Stomach Neoplasms,
+32,Alzheimer Disease,DOID:0080348
+33,Tongue Neoplasms,
+34,Diverticular Diseases,
+35,Vascular Stiffness,
+36,Urinary Bladder Neoplasms,DOID:11054
+37,Thyroid Neoplasms,
+38,Ovarian Neoplasms,DOID:0050928
+39,Pharyngeal Neoplasms,
+40,Biliary Tract Neoplasms,DOID:9741
+41,Acute Lymphoblastic Leukemia,DOID:9952
+42,Gallbladder Neoplasms,DOID:0050893

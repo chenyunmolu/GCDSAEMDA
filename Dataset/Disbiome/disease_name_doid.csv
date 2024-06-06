@@ -1,0 +1,356 @@
+,Disease,DOID
+0,Autism,DOID:12849
+1,Multiple Sclerosis,DOID:2377
+2,Crohn's Disease,DOID:8778
+3,Ulcerative Colitis,DOID:8577
+4,Irritable Bowel Syndrome,DOID:9778
+5,Cirrhosis,DOID:5082
+6,Type 2 Diabetes,DOID:9352
+7,Obesity,DOID:9970
+8,Pouchitis,DOID:2965
+9,Short Bowel Syndrome,DOID:10605
+10,Acquired Immunodeficiency Syndrome,DOID:635
+11,Laryngeal carcinoma,DOID:2600
+12,Psoriasis,DOID:8893
+13,Cystic Fibrosis,DOID:1485
+14,Chronic Obstructive Pulmonary Disease,DOID:3083
+15,Colorectal cancer,DOID:9256
+16,Inflammatory Bowel Disease,DOID:0050589
+17,Major depressive disorder,DOID:1470
+18,Bipolar disorder,DOID:3312
+19,Chronic fatigue syndrome,DOID:8544
+20,Parkinson's Disease,DOID:14330
+21,Alzheimer's Disease,DOID:10652
+22,Infective colitis,DOID:0060180
+23,Atherosclerosis,DOID:1936
+24,Aggressive periodontitis,DOID:1474
+25,Type 1 Diabetes,DOID:0110742
+26,Esophageal cancer,DOID:5041
+27,Acute skin abscess,DOID:9723
+28,Necrotizing enterocolitis,DOID:8677
+29,Caries,DOID:216
+30,Atopy,DOID:3310
+31,Familial adenomatous polyposis,DOID:0050424
+32,Allergy,DOID:0040001
+33,"Celiac Disease, Coaliac disease",DOID:10608
+34,Ankylosing spondylitis,DOID:7147
+35,Atopic eczema,DOID:9123
+36,HIV infection,DOID:526
+37,Systemic sclerosis,DOID:418
+38,Primary sclerosing cholangitis,DOID:0060643
+39,Preeclamsia,DOID:10591
+40,Pulmonary tubercolosis,DOID:13406
+41,Juvenile idiopathic arthritis,DOID:676
+42,Behcet's Disease,DOID:13241
+43,Sjogren's syndrome,DOID:12894
+44,Autoimmune hepatitis,DOID:2048
+45,Hepatitis B,DOID:2043
+46,Aphthous ulcer,DOID:9663
+47,Pancreatic cancer,DOID:1793
+48,Tuberculosis,DOID:399
+49,Recurrent tonsillitis,DOID:10456
+50,Atopic dermatitis,DOID:3310
+51,Bacterial vaginosis,DOID:3385
+52,Cervical cancer,DOID:4362
+53,Asthma,DOID:2841
+54,Rheumatoid Arthritis,DOID:7148
+55,Periodontal disease,DOID:3388
+56,Blepharitis,DOID:9423
+57,Chronic Rhinosinusitis,DOID:10793
+58,Conjunctival scarring,DOID:10139
+59,Oral lichen planus,DOID:9201
+60,Heart failure,DOID:9651
+61,Refractory celiac disease,DOID:10608
+62,Interstitial cystitis,DOID:13949
+63,Coronary artery disease,DOID:3393
+64,Juvenile Idiopathic Arthritis,DOID:676
+65,Preterm birth,DOID:0111144
+66,Polycystic Ovary Syndrome,DOID:11612
+67,Trachoma,DOID:11265
+68,Colon adenomas,DOID:219
+69,Gestational diabetes,DOID:11714
+70,Primary Open-Angle Glaucoma,DOID:1070
+71,Barrett's oesophagus,DOID:9206
+72,Megaesophagus,DOID:13186
+73,Pneumonia,DOID:552
+74,Cutaneous burn,DOID:4331
+75,Exacerbations of idiopathic pulmonary fibrosis,DOID:0050156
+76,Head/Neck cancer,DOID:11934
+77,Hypertension,DOID:10763
+78,Halitosis,DOID:403
+79,Rectal Carcinoma,DOID:6959
+80,Dandruff,DOID:9060
+81,Viral Diarrhea,DOID:13250
+82,HIV-infected pneumonia,DOID:10533
+83,Pervasive developmental disorder NOS,DOID:0060040
+84,Macular degeneration,DOID:4448
+85,Spondyloarthritis,DOID:848
+86,Systemic lupus erythematosus,DOID:9074
+87,Transient Ischemic Attack,DOID:224
+88,Denture Stomatitis,DOID:11875
+89,Spinal cord injury,DOID:13743
+90,Osmotic diarrhea,DOID:0050130
+91,Reflux esophagitis,DOID:13976
+92,Inactive Crohn's Disease,DOID:8778
+93,Endometrial cancer,DOID:1380
+94,Infantile eczema,DOID:9123
+95,Granulomatous mastitis,DOID:10690
+96,severe skin and soft tissue infection,DOID:3814
+97,Coronary Heart Disease,DOID:3393
+98,Acne,DOID:6543
+99,Vitiligo,DOID:12306
+100,Appendicitis,DOID:8337
+101,Gastro-oesophageal reflux disease,DOID:8534
+102,Constipation,DOID:2089
+103,Disease-free ,DOID:4
+104,Chronic Rhinosinusitis with asthma,DOID:0080809
+105,Chronic Rhinosinusitis with cystic fibrosis,DOID:1485
+106,Postmenopausal,DOID:11968
+107,Aphthous stomatitis,DOID:9663
+108,Primary sclerosing cholangitis-IBD,DOID:0060643
+109,Oral cancer,DOID:8618
+110,Psoriatic Arthritis,DOID:9008
+111,Chronic lung disease,DOID:3083
+112,Cardiovascular disease,DOID:1287
+113,Clostridium difficile associated disease,DOID:0060185
+114,Botulism,DOID:11976
+115,Idiopathic Pulmonary Fibrosis,DOID:0050156
+116,Rett Syndrome,DOID:1206
+117,Gingivitis,DOID:3087
+118,Chronic prostatitis / Chronic pelvic pain syndrome,DOID:14654
+119,Kidney stone,DOID:585
+120,Eosinophilic esophagitis,DOID:13922
+121,Chronic kidney disease,DOID:784
+122,Chagas' disease,DOID:12140
+123,periodontitis,DOID:824
+124,Anorexia Nervosa,DOID:8689
+125,Kawasaki disease,DOID:13378
+126,Rhinovirus infection,DOID:2825
+127,Non alcoholic steatohepatitis,DOID:0080547
+128,Pancreatitis,DOID:4989
+129,Non-alcoholic fatty liver disease,DOID:0080546
+130,Ascites,DOID:0060476
+131,Opisthorchis felineus infection,
+132,Helicobacter pylori infection,
+133,Primary biliary cirrhosis,DOID:12236
+134,Liver fibrosis,DOID:1485
+135,Hepatic encephalopathy,DOID:13413
+136,Alcoholism,DOID:0050741
+137,Gastroenteritis,DOID:2326
+138,Primary biliary cholangitis,DOID:12236
+139,Amyotrophic lateral sclerosis,DOID:332
+140,Hashimoto's thyroiditis,DOID:7166
+141,Cirrhosis with pneumonia,DOID:5082
+142,Hepatitis C,DOID:1883
+143,Functional dyspepsia,DOID:11371
+144,Liver transplant,
+145,Schizophrenia,DOID:5419
+146,Atrophic gastritis,DOID:8929
+147,Cervicitis,DOID:2568
+148,Smoking,
+149,Pregnancy,DOID:0060329
+150,Idiopathic infertility,DOID:0112312
+151,Trichomonas vaginalis infection,DOID:0050269
+152,Human papilloma virus infection,DOID:526
+153,Nongonococcal urethritis,DOID:1343
+154,Vulvar vestibulitis syndrome,DOID:14292
+155,Hyperthyroidism,DOID:7998
+156,Idiopathic REM Sleep Behavior Disorder,DOID:9091
+157,T2D with hypertension,DOID:10825
+158,T2D with hyperlipidemia,DOID:1168
+159,T2D with hypertension and hyperlipidemia,DOID:10825
+160,Bullous pemphigoid,DOID:8506
+161,Otitis Media,DOID:10754
+162,Hirschsprung-associated enterocolitis,DOID:8677
+163,Hutchinson-Gilford progeria syndrome,DOID:3911
+164,Henoch-Schoenlein purpura,DOID:11123
+165,Prediabetes,DOID:11716
+166,Chlamydia,DOID:11263
+167,Enthesitis-related arthritis ,DOID:848
+168,Chronic alcoholic pancreatitis,DOID:2913
+169,Alcoholic hepatitis,DOID:12351
+170,Autism spectrum disorders,DOID:0060041
+171,Idiopathic nephrotic syndrome,DOID:2590
+172,Diverticular disease,DOID:13254
+173,Neuromyelitis optica,DOID:8869
+174,Azoospermia,DOID:14227
+175,Hyperlipidemia,DOID:1168
+176,Shiga Toxin-producing E. coli infection,
+177,Gastric carcinoma,DOID:5516
+178,COPD Exacerbation,DOID:3083
+179,Sickle cell disease,DOID:10923
+180,Protracted bacterial bronchitis,DOID:6132
+181,Reactive arthritis,DOID:6196
+182,Seminal hyperviscosity,DOID:10400
+183,Oligoasthenoteratozoospermia,DOID:0070311
+184,Allergic asthma,DOID:9415
+185,Budd-Chiari syndrome,DOID:11512
+186,Atopic wheeze,DOID:0080820
+187,Prostate cancer,DOID:10283
+188,Multiple system atrophy,DOID:4752
+189,Autoimmune polyendocrine syndrome type 1,DOID:0050167
+190,Attention Deficit Hyperactivity Disorder,DOID:1094
+191,Hepatocellular cancer,DOID:0070328
+192,Oral potentially malignant disorder,DOID:0080900
+193,Viral respiratory tract infection,DOID:0050161
+194,Hirschsprung's disease,DOID:10487
+195,Oral leukoplakia,DOID:9655
+196,Urgency urinary incontinence,DOID:724
+197,Pelvic inflammatory disease,DOID:1003
+198,Neuropathic bladder,DOID:12143
+199,Uveitits,
+200,Granulomatosis with polyangiitis,DOID:12132
+201,Overactive bladder,DOID:0070355
+202,Cytolytic vaginosis,DOID:3385
+203,Maturity-onset diabetes of the young 2,DOID:0111100
+204,Stomach cancer,DOID:10534
+205,Small intestine neoplasm,DOID:7505
+206,Arsenic exposure,
+207,Myasthenia gravis,DOID:437
+208,Osteoarthritis,DOID:8398
+209,Lung cancer,DOID:1324
+210,Clonorchis sinensis infection,
+211,Severe fever with thrombocytopenia syndrome,DOID:1588
+212,Breast cancer,DOID:1612
+213,Bronchiectasis,DOID:9563
+214,Graves' disease,DOID:12361
+215,Wilson's Disease,DOID:893
+216,Sensitive scalp,DOID:3136
+217,Microscopic colitis,DOID:0060182
+218,Bronchiolitis,DOID:2942
+219,Intestinal metaplasia,
+220,Keratitis,DOID:4677
+221,Late-onset Sepsis,DOID:0040085
+222,"Hand, foot and mouth disease",DOID:10881
+223,Infant colic,DOID:0050354
+224,Tetratricopeptide repeat domain 7A deficiency,
+225,X-linked inhibitor of apoptosis deficiency,
+226,Chronic granulomatous disease,DOID:3265
+227,Cardiac valve calcification,DOID:62
+228,Adolescent idiopathic scoliosis,DOID:4079
+229,Aerobic vaginitis,DOID:11968
+230,Palmoplantar pustulosis,DOID:4398
+231,Drug-resistant Epilepsy,DOID:2544
+232,Primary liver cancer,DOID:3571
+233,Anovulation,DOID:3781
+234,Cleft palate,DOID:674
+235,Graves' orbitopathy,DOID:0081120
+236,Obstructive sleep apnea-hypopnea syndrome,DOID:0050848
+237,Silicosis,DOID:10325
+238,Urolithiasis,DOID:0080653
+239,Endometriosis,DOID:289
+240,Urogenital Schistosomiasis,DOID:0050597
+241,Clostridium difficile infection,DOID:0060185
+242,Cervical intraneoplasia,DOID:0050840
+243,Influenza A,DOID:8469
+244,Recurrent miscarriage,
+245,Thyroid carcinoma,DOID:3963
+246,H7N9,DOID:4492
+247,Cholestasis,DOID:13580
+248,Undernourishment,
+249,Invasive pneumococcal disease,
+250,Chronic rhinosinusitis with nasal polyps,DOID:10793
+251,Alcoholic cirrhosis,DOID:14018
+252,Alopecia areata,DOID:986
+253,Sicca syndrome,DOID:12894
+254,Tongue cancer,DOID:8649
+255,Giardia intestinalis infection,
+256,Glycogen storage disease,DOID:2747
+257,Frailty,DOID:14261
+258,Metabolic syndrome,DOID:0060611
+259,Pancreatic head cancer,DOID:11934
+260,Hepatitis B associated liver failure,DOID:2043
+261,Bladder cancer,DOID:11054
+262,Kostmann syndrome,DOID:0112133
+263,Diarrhea,DOID:13250
+264,Seborrheic dermatitis,DOID:8741
+265,Edentulism,DOID:0050591
+266,Generalized anxiety disorder,DOID:14320
+267,Chronic ocular graft-versus-host disease,DOID:0081267
+268,Pediculosis,DOID:5501
+269,Rosacea,DOID:8881
+270,Familial Mediterranean fever,DOID:2987
+271,AA amyloidosis,DOID:0080936
+272,Mucosa-associated lymphoid tissue lymphoma,DOID:0050909
+273,Fibromyalgia,DOID:631
+274,Chronic liver disease,DOID:0050770
+275,Colon polyps,DOID:0111579
+276,Collagenous colitis,DOID:0060183
+277,Common Variable Immunodeficieny,DOID:0081144
+278,Sepsis,DOID:0040085
+279,Periodontal abscess,DOID:3388
+280,Gestational diabetes + hyperlipidemia,DOID:11714
+281,Anti-N-methyl-D-aspartate receptor encephalitis,DOID:9588
+282,Atrial fibrillation,DOID:0060224
+283,Pemphigus vulgaris,DOID:0060851
+284,Orofacial granulomatosis,DOID:0081309
+285,Radiation enteritis,DOID:7127
+286,Intrahepatic Cholangiocarcinoma,DOID:4928
+287,Osteoporosis,DOID:11476
+288,Cancer cachexia,
+289,Lower respiratory tract infection,DOID:0050161
+290,Laryngotracheal stenosis,DOID:1929
+291,Down syndrome,DOID:14250
+292,Chronic mucocutaneous candidiasis,DOID:2058
+293,Hyper IgE syndrome,DOID:0080545
+294,Acute cerbral infarction,DOID:3526
+295,Biliary atresia,DOID:13608
+296,Diabetic nephropathy,
+297,Allergic rhinoconjunctivitis,
+298,Diaper dermatitis,DOID:4407
+299,Alopecia universalis,DOID:0050634
+300,Chronic pancreatitis,DOID:2913
+301,Posttraumatic stress syndrome,DOID:6088
+302,Hidradenitis suppurativa,DOID:2280
+303,Idiopathic focal epilepsy,DOID:3331
+304,Vogt-Koyagani-Harada disease,DOID:12297
+305,Iron-deficiency anaemia,DOID:11758
+306,Extrinsic black stain,
+307,Meningococcal disease,DOID:0080176
+308,Neuro-Behcet's disease,DOID:13241
+309,Miscarriage,
+310,Huntington's Disease,DOID:12858
+311,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,DOID:0080315
+312,Kaposi's sarcoma,DOID:8632
+313,Ischemic stroke,
+314,Wiskott-Aldrich syndrome,DOID:9169
+315,Severe congenital neutropenia,DOID:0050590
+316,Vestibulodynia,
+317,Hyperglycemia,DOID:4195
+318,Antrochoanal polyps,DOID:0111579
+319,Primary immune thrombocytopenia,DOID:1588
+320,Spleen deficiency syndrome,DOID:0050641
+321,Pulmonary arterial hypertension,DOID:14557
+322,Acute fatty liver,DOID:0080546
+323,Excessive vomiting,
+324,Chronic stress,DOID:6088
+325,Acute lymphoblastic leukemia,DOID:9952
+326,Biliary tract cancer,DOID:4607
+327,Kidney stone with hypertension,
+328,Bleeding gum,DOID:1483
+329,Cystic fibrosis exacerbation,DOID:1485
+330,Stevens-Johnson syndrome,DOID:0050426
+331,Pressure ulcers,DOID:12566
+332,Genitourinary lichen sclerosus,DOID:9201
+333,Folliculitis decalvans,DOID:0080755
+334,Nasolacrimal duct obstruction,DOID:0080072
+335,Chronic urticaria,DOID:0080747
+336,Migraine,DOID:6364
+337,Idiopathic central precocious puberty,DOID:0112310
+338,Human end-stage renal disease,DOID:783
+339,Gastrointestinal follicular lymphoma,DOID:0050873
+340,Invasive colorectal cancer,DOID:0080199
+341,E-smoking,
+342,Traumatic Brain Injury,DOID:0081292
+343,Oropharyngeal cancer,DOID:8557
+344,Hypopharyngeal cancer,DOID:8533
+345,Neisseria gonorrhoeae infection,
+346,Dry eye syndrome,DOID:10140
+347,Vulvodynia,
+348,Normal weight obesity,DOID:9970
+349,Fatigue,DOID:8544
+350,Covid-19,DOID:0080600
+351,H1N1 Influenza,DOID:4492
+352,Recurrent aphthous stomatitis ,DOID:9663
+353,Cognitive impairment,DOID:0080832
+354,Sarcopenia,

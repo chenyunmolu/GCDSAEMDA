@@ -1,0 +1,40 @@
+,Disease,DOID
+0,Colon cancer,DOID:219
+1,Periodontal,DOID:3388
+2,Gastric and duodenal ulcer,DOID:8529
+3,Gastro-oesophageal reflux,DOID:8534
+4,Guttate psoriasis,DOID:0111281
+5,Atopy,DOID:4331
+6,Diarrhea Irritable bowel syndrome(IBS),DOID:13250
+7,Irritable bowel syndrome(IBS),DOID:9778
+8,Constipation Irritable bowel syndrome(IBS),DOID:2089
+9,Obesity,DOID:9970
+10,Ileal Crohn's disease(CD),DOID:0060191
+11,Bacterial Vaginosis,DOID:3385
+12,Infectious colitis,DOID:0060182
+13,Ulcerative colitis,DOID:8577
+14,Crohn's disease(CD),DOID:8778
+15,Allergic sensitization,DOID:10612
+16,Atopic dermatitis,DOID:3310
+17,Atopic sensitisation,DOID:0110098
+18,Eczema,DOID:9123
+19,Recurrent wheeze,DOID:0080820
+20,Allergy,DOID:0040001
+21,Asthma,DOID:2841
+22,Inflammatory bowel disease(IBD),DOID:0050589
+23,Cystic fibrosis,DOID:1485
+24,Rheumatoid arthrits,DOID:7148
+25,Psoriasis,DOID:8893
+26,Necrotizing Enterocolitis,DOID:8677
+27,Systemic inflammatory response syndrome,DOID:5251
+28,COPD,DOID:3083
+29,Type 2 diabetes,DOID:9352
+30,Type 1 diabetes,DOID:0110742
+31,Colorectal carcinoma,DOID:0080199
+32,Kidney stones,DOID:585
+33,Whipple's disease,DOID:8476
+34,Liver cirrhosis,DOID:5082
+35,Allergic asthma,DOID:9415
+36,Clostridium difficile infection(CDI),DOID:0060185
+37,Skin and mucosal infections,DOID:0050929
+38,New-onset untreated rheumatoid arthrits,DOID:7148
