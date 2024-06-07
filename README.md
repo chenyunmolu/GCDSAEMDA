@@ -67,3 +67,6 @@ example:
     python GCDSAEMDA_Disbiome.py --cv 2 
 ```
 
+## The flowchart of GCDSAEMDA
+
+![flowchart](./flowchart.png)
